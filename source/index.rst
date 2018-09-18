@@ -11,7 +11,9 @@ Welcome to useblocks coding hill's documentation!
    :caption: Contents:
 
    common/index
+   c/index
    python/index
+   linux/index
 
 Questions
 ---------

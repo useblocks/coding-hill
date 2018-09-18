@@ -1,20 +1,20 @@
-Python
-======
+C questions & answers
+=====================
 
-Python Questions
-----------------
+C Questions
+-----------
 
 .. needlist::
    :types: question
-   :tags: python
+   :tags: c
 
 
-Python Answers
---------------
+C Answers
+---------
 
 .. needlist::
    :types: answer
-   :tags: python
+   :tags: c
 
 
 .. toctree::
@@ -22,3 +22,4 @@ Python Answers
 
    questions
    answers
+

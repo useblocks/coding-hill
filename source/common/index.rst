@@ -18,6 +18,8 @@ Common Answers
 
 
 .. toctree::
+   :caption: Content
 
    questions
    answers
+
