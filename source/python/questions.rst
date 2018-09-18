@@ -1,6 +1,11 @@
 Python questions
 ================
 
+.. needlist::
+   :tags: python
+   :types: qu
+
+
 .. qu:: What is Python really?
    :id: python_1
    :tags: python

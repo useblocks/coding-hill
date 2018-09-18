@@ -4,7 +4,7 @@ Python
 Python Questions
 ----------------
 
-.. needtable::
+.. needlist::
    :types: question
    :tags: python
 
@@ -12,7 +12,7 @@ Python Questions
 Python Answers
 --------------
 
-.. needtable::
+.. needlist::
    :types: answer
    :tags: python
 

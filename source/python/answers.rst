@@ -1,6 +1,10 @@
 Python answers
 ==============
 
+.. needlist::
+   :tags: python
+   :types: an
+
 .. an:: What is Python really?
    :tags: python
    :links: python_1
