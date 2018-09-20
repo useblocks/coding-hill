@@ -32,3 +32,61 @@ C questions
 .. qu:: Describe the header file and its usage in C programming?
    :id: c_8
    :tags: c
+
+.. qu:: Convert the decimal number 35 to binary.
+   :id: c_9
+   :tags: c
+
+.. qu:: Advanced C programming - pointers, qualifiers, MISRA, coding
+    :id: c_10
+    :tags: c
+
+    .. code-block:: c
+
+        /*  Tasks:
+         *  - What are #pragma commands good for?
+         *  - Why is 'const volatile' used?
+         *  - What is MISRA-C?
+         *  - Finish function kl_ipol_u16_u16 so that the 3rd element of the input array xTab is returned.
+         */
+
+        #pragma section D_U16_KL
+
+        const volatile uint16 AXX_D[5] = { 10, 20, 30, 40, 50};
+
+        #pragma section
+
+        (...)
+
+        #pragma section C_10MS
+
+        uint16 kl_ipol_u16_u16(const volatile void *xTab, u16 x) {
+
+            /* automatic variable */
+            uint16 yy;
+
+
+
+            /* MISRA-C conform access to element 3 of xTab (type uint16) */
+            yy =
+
+
+
+
+
+            return yy;
+        }
+
+        #pragma section
+
+        void another_function(void) {
+
+            /* Example call */
+            uint16 result ;
+            result = kl_ipol_u16_u16(AXX_D, 42);
+
+        }
+
+.. qu:: What's the difference between compiler and linker?
+    :id: c_11
+    :tags: c
