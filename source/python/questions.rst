@@ -58,8 +58,6 @@ Python questions
       f(3,[3,2,1])
       f(3)
 
-   Answer: https://www.codementor.io/sheena/essential-python-interview-questions-du107ozr6#answer
-
 .. qu:: What is monkey patching and is it ever a good idea?
    :id: python_5
    :tags: python
