@@ -280,3 +280,6 @@ Thumbs.db
 
 # Editor backup files #
 *~
+
+# direnv
+.envrc
